@@ -1,0 +1,12 @@
+/Users/TJames/repos/GC_Exercises/Exercise37/bin/Debug/netcoreapp3.1/Exercise37.deps.json
+/Users/TJames/repos/GC_Exercises/Exercise37/bin/Debug/netcoreapp3.1/Exercise37.runtimeconfig.json
+/Users/TJames/repos/GC_Exercises/Exercise37/bin/Debug/netcoreapp3.1/Exercise37.runtimeconfig.dev.json
+/Users/TJames/repos/GC_Exercises/Exercise37/bin/Debug/netcoreapp3.1/Exercise37.dll
+/Users/TJames/repos/GC_Exercises/Exercise37/bin/Debug/netcoreapp3.1/Exercise37.pdb
+/Users/TJames/repos/GC_Exercises/Exercise37/obj/Debug/netcoreapp3.1/Exercise37.csprojAssemblyReference.cache
+/Users/TJames/repos/GC_Exercises/Exercise37/obj/Debug/netcoreapp3.1/Exercise37.AssemblyInfoInputs.cache
+/Users/TJames/repos/GC_Exercises/Exercise37/obj/Debug/netcoreapp3.1/Exercise37.AssemblyInfo.cs
+/Users/TJames/repos/GC_Exercises/Exercise37/obj/Debug/netcoreapp3.1/Exercise37.csproj.CoreCompileInputs.cache
+/Users/TJames/repos/GC_Exercises/Exercise37/obj/Debug/netcoreapp3.1/Exercise37.dll
+/Users/TJames/repos/GC_Exercises/Exercise37/obj/Debug/netcoreapp3.1/Exercise37.pdb
+/Users/TJames/repos/GC_Exercises/Exercise37/obj/Debug/netcoreapp3.1/Exercise37.genruntimeconfig.cache
